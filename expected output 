@@ -1,0 +1,5 @@
+After running the script, you will get:
+MAE, RMSE, and R² — model performance metrics.
+actual_vs_predicted.png — prediction accuracy visualization.
+feature_importance.png — most influential features.
+black_friday_predictions.csv — predicted purchase amounts for the test dataset.
