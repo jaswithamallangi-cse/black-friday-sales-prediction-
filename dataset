@@ -1,0 +1,12 @@
+The dataset typically contains:
+Column Description
+User_ID Customer identifier
+Product_ID Product identifier
+Gender Customer gender
+Age Customer age group
+Occupation Occupation category
+City_Category City classification
+Stay_In_Current_City_Years Years in current city
+Product_Category_1, 2, 3 Product categories
+Purchase Actual purchase amount (target)
+4. Expected output
